@@ -25,7 +25,7 @@ Being frustrated with the (ahem) low-demand approach of Duolingo and other lang
 
 ## Approach
 
-Dansk Fantastisk’s learning approach is based the following principles:
+Dansk Fantastisk’s learning approach is based on the following principles:
 
 ### 1. Flashcards
 
@@ -69,9 +69,10 @@ Learning sentences that contain the target vocabulary and grammar, helps to unde
 
 # About me
 
-I’m a Full Stack Web Developer and UI/UX Designer currently living in Hamburg, Germany. 🧡 Web Accessibility and Usabilitiy
+I’m a Full Stack Web Developer and UI/UX Designer currently living in Hamburg, Germany.  
+🧡 Web Accessibility and Usabilitiy
 
-**Follow me on LinkedIn:**  
+**Interested in more like this? Follow me on LinkedIn:**  
 <a href="https://linkedin.com/in/fraulueneburg">
-<img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="LinkedIn" style="display: block; margin-top: 1rem;" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 </a>
