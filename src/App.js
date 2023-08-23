@@ -3,7 +3,7 @@
 function App() {
 	return (
 		<>
-			<header>Hello</header>
+			<header>Hello Frontend</header>
 		</>
 	)
 }
