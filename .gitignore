@@ -11,8 +11,25 @@
 # production
 /build
 
+# media files
+/img/*
+/sounds/*
+/sounds-ipa/*
+
+# except for the three example ones
+# !/img/ 
+# !/img/ 
+# !/img/ 
+# !/sounds/*
+# !/sounds/*
+# !/sounds/*
+# !/sounds-ipa/*
+# !/sounds-ipa/*
+# !/sounds-ipa/*
+
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local

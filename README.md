@@ -73,7 +73,7 @@ Learning sentences that contain the target vocabulary and grammar, helps to unde
 I’m a Full Stack Web Developer and UI/UX Designer currently living in Hamburg, Germany.  
 🧡 Web Accessibility and Usabilitiy
 
-### Interested in more like this? Follow me on LinkedIn:
+### Interested in more like this? Let’s connect on LinkedIn:
 
 <a href="https://linkedin.com/in/fraulueneburg">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
