@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+<h1>[IN PROGRESS] 👷🇩🇰<br />
+Dansk Fantastisk – A language learning app</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 style="border: none; font-weight: normal; font-size: 1.5rem;">Being frustrated with the (ahem) low-demand approach of Duolingo and other language learning apps, I decided to code my own app to learn Danish. It is loosely based on Gabriel Wyner’s approach to learning languages, outlined in his book “Fluent Forever”.</h2>
 
-## Available Scripts
+## Content:
 
-In the project directory, you can run:
+[1. Technologies](#Technologies)  
+[2. Dependencies](#Dependencies)  
+[3. Approach](#Approach)  
+[4. Planned Features](#Planned_Features)
 
-### `npm start`
+## Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img alt="React" src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
-### `npm test`
+## Dependencies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Approach
 
-### `npm run build`
+The app follows the following principles:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**1. Flashcards**  
+Creating personalized flashcards with images, native audio, and target language text.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**2. Spaced Repetition**  
+A way of learning through active recall, spread out across multiple study sessions. All backed up by neuroscience.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**2. Pronounciation first**  
+Mastering pronunciation early on helps with comprehension and speaking skills. The app will first teach you your target language’s IPA letters, then the pronounciation of the most common syllables before moving on to sentences.
 
-### `npm run eject`
+**3. Learn Sentences**  
+Learning sentences that contain the target vocabulary and grammar, helps to understand their usage in real-life scenarios. It also makes them easier to remember.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**4. Visual Learning, Avoiding Translations**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**5. Gamification 🎮**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Planned Features
 
-## Learn More
+### Basics
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Base Setup
+- Create new Flashcards
+- … to be continued
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Some wild ideas for the future:
 
-### Code Splitting
+- personalization: app suggests vocabulary based on interests
+- paste the url to a subtitled YouTube and the app will teach you its vocabulary
+- AI suggests example sentences
+- AI powered conversation trainer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+# Interested in more stuff like this?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Follow me on LinkedIn:
