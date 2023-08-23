@@ -1,7 +1,11 @@
 <h1>[IN PROGRESS] 👷🇩🇰<br />
 Dansk Fantastisk – A language learning app</h1>
 
-Being frustrated with the (ahem) low-demand approach of Duolingo and other language learning apps, I decided to code my own app to learn Danish. It is loosely based on Gabriel Wyner’s approach to learning languages, outlined in his book “Fluent Forever”.
+Being frustrated with the (ahem) low-demand approach of Duolingo and other language learning apps, I decided to code my own app to learn Danish. This app starts with pronounciation, which makes everything else so much easier. Loosely based on Gabriel Wyner’s approach to learning languages, outlined in his book “Fluent Forever”.
+
+## Technologies
+
+<img alt="React" src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 ## Content:
 
@@ -10,10 +14,6 @@ Being frustrated with the (ahem) low-demand approach of Duolingo and other lang
 3. [Approach](#Approach)
 4. [Planned Features](#Planned_Features)
 5. [About me](#About_me)
-
-## Technologies
-
-<img alt="React" src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
 
@@ -73,8 +73,9 @@ Learning sentences that contain the target vocabulary and grammar, helps to unde
 I’m a Full Stack Web Developer and UI/UX Designer currently living in Hamburg, Germany.  
 🧡 Web Accessibility and Usabilitiy
 
-### Interested in more like this? Let’s connect on LinkedIn:
+<h2>Like this?<br />
+Follow my progress:</h2>
 
-<a href="https://linkedin.com/in/fraulueneburg">
+<a href="https://linkedin.com/in/fraulueneburg" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 </a>
