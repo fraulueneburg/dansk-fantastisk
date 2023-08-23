@@ -9,32 +9,43 @@ Being frustrated with the (ahem) low-demand approach of Duolingo and other lang
 2. [Dependencies](#Dependencies)
 3. [Approach](#Approach)
 4. [Planned Features](#Planned_Features)
+5. [About me](#About_me)
 
 ## Technologies
 
 <img alt="React" src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
+---
+
 ## Dependencies
+
+- to be defined
+
+---
 
 ## Approach
 
-The app follows the following principles:
+Dansk Fantastisk’s learning approach is based the following principles:
 
-**1. Flashcards**  
+### 1. Flashcards
+
 Creating personalized flashcards with images, native audio, and target language text.
 
-**2. Spaced Repetition**  
+### 2. Spaced Repetition
+
 A way of learning through active recall, spread out across multiple study sessions. All backed up by neuroscience.
 
-**2. Pronounciation first**  
+### 2. Pronounciation first
+
 Mastering pronunciation early on helps with comprehension and speaking skills. The app will first teach you your target language’s IPA letters, then the pronounciation of the most common syllables before moving on to sentences.
 
-**3. Learn Sentences**  
+### 3. Learn Sentences
+
 Learning sentences that contain the target vocabulary and grammar, helps to understand their usage in real-life scenarios. It also makes them easier to remember.
 
-**4. Visual Learning, Avoiding Translations**
+### 4. Visual Learning, Avoiding Translations
 
-**5. Gamification 🎮**
+### 5. Gamification 🎮
 
 ---
 
@@ -48,8 +59,9 @@ Learning sentences that contain the target vocabulary and grammar, helps to unde
 
 ### Some wild ideas for the future:
 
+- gamification: make it fun and nice while still being challenging
 - personalization: app suggests vocabulary based on interests
-- paste the url to a subtitled YouTube and the app will teach you its vocabulary
+- paste the url to a YouTube you want to understand and the app will teach you the vocabulary
 - AI suggests example sentences
 - AI powered conversation trainer
 
