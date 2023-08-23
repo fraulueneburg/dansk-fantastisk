@@ -53,21 +53,22 @@ Learning sentences that contain the target vocabulary and grammar, helps to unde
 
 ### Basics
 
-- Base Setup
-- Create new Flashcards
+- Create personalized Flashcards
+- Learn IPA, Pronounciation, Words, Sentences
+- Learn using the SRS (Spaced Repetition System)
 - … to be continued
 
 ### Some wild ideas for the future:
 
-- gamification: make it fun and nice while still being challenging
-- personalization: app suggests vocabulary based on interests
-- paste the url to a YouTube you want to understand and the app will teach you the vocabulary
+- Gamification: make it fun and nice while still being challenging
+- Personalization: app suggests vocabulary based on interests
+- Paste the url to a YouTube you want to understand and the app will teach you the vocabulary
 - AI suggests example sentences
 - AI powered conversation trainer
 
 ---
 
-# About me
+## About me
 
 I’m a Full Stack Web Developer and UI/UX Designer currently living in Hamburg, Germany.  
 🧡 Web Accessibility and Usabilitiy
