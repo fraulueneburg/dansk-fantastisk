@@ -12,20 +12,20 @@
 /build
 
 # media files
-/img/*
-/sounds/*
-/sounds-ipa/*
+/src/img/*
+/src/sounds/*
+/src/sounds-ipa/*
 
 # except for the three example ones
-# !/img/ 
-# !/img/ 
-# !/img/ 
-# !/sounds/*
-# !/sounds/*
-# !/sounds/*
-# !/sounds-ipa/*
-# !/sounds-ipa/*
-# !/sounds-ipa/*
+# !/src/img/ 
+# !/src/img/ 
+# !/src/img/ 
+# !/src/sounds/*
+# !/src/sounds/*
+# !/src/sounds/*
+# !/src/sounds-ipa/*
+# !/src/sounds-ipa/*
+# !/src/sounds-ipa/*
 
 # misc
 .DS_Store
