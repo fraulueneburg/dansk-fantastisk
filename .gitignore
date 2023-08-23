@@ -12,11 +12,9 @@
 /build
 
 # media files
-/src/img/
-/src/sounds/
-/src/sounds-ipa/
-
-# except for the three example ones
+/src/assets/img/*
+/src/assets/sounds/*
+/src/assets/sounds-ipa/*
 
 
 # misc
