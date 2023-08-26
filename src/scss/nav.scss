@@ -1,0 +1,44 @@
+nav {
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		li {
+			svg {
+				display: block;
+				margin: 0 auto;
+			}
+		}
+	}
+
+	li {
+		a {
+			border-radius: var(--border-radius-small);
+			color: var(--color-text);
+			display: block;
+			margin: var(--spacing-small);
+			padding: var(--spacing-std);
+			text-decoration: none;
+
+			&:hover,
+			&:focus,
+			&:active {
+				color: var(--bgc-button);
+			}
+		}
+
+		&.current a {
+			background-color: var(--bgc-button);
+			color: var(--color-button);
+		}
+	}
+}
+
+.nav_main {
+	background-color: var(--bgc-box-std);
+	border: var(--border-std);
+	border-radius: var(--border-radius-std);
+	margin-right: var(--spacing-small);
+	text-align: center;
+}

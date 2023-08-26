@@ -1,9 +1,14 @@
-// import './App.css';
+import './scss/style.scss'
+import Practice from './pages/Practice'
+import Nav from './components/Nav'
 
 function App() {
 	return (
 		<>
-			<header>Hello Frontend</header>
+			<Nav />
+			<main>
+				<Practice />
+			</main>
 		</>
 	)
 }

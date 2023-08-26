@@ -1,0 +1,35 @@
+:root {
+	// COLORS
+
+	--color-black: #222;
+	--color-white: #fff;
+	--color-text: var(--color-black);
+	--color-muted: #7b8495;
+
+	--color-amber-200: #ffbf00;
+	--color-blue-500: #3c71f7;
+	--color-blue-650: #184eb8;
+
+	--bgc-box-std: var(--color-white);
+	--bgc-button: var(--color-blue-500);
+	--bgc-button-hover: var(--color-blue-650);
+	--color-button: var(--color-white);
+	--color-button-hover: var(--color-white);
+
+	// BASE SCAFFOLDING
+
+	--spacing-std: 1rem;
+	--spacing-small: calc(1rem / 3);
+
+	--border-radius-std: calc(var(--spacing-std) / 2 * 3);
+	--border-radius-small: calc(var(--spacing-std) / 2);
+	--border-std: 2px solid var(--color-black);
+
+	// FONTS
+	--font-family-body: 'Josefin Sans', sans-serif;
+	--font-family-headlines: var(--font-body);
+	--font-size-body: 1.5rem;
+	--line-height-body: 1.4;
+	--line-height-headlines: 1.2;
+	--font-std: var(--font-size-body) / var(--line-height-body) var(--font-family-body), sans-serif;
+}

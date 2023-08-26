@@ -1,0 +1,30 @@
+html,
+body {
+	height: 100%;
+}
+
+html {
+	font-size: 100%;
+
+	@media (prefers-reduced-motion: no-preference) {
+		scroll-behavior: smooth;
+	}
+}
+
+body {
+	background: url(../assets/img/bg-worn-dots.png) repeat top left;
+	background: url(../assets/img/bg-dot-grid.png) repeat top left;
+	font: var(--font-std);
+	margin: 0;
+}
+
+#root {
+	box-sizing: border-box;
+	display: flex;
+	padding: var(--spacing-small);
+	height: 100%;
+}
+
+main {
+	flex: 1 1 auto;
+}

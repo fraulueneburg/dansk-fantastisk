@@ -1,0 +1,23 @@
+.flashcard {
+	background-color: var(--bgc-box-std);
+	border-radius: var(--border-radius-std);
+	border: var(--border-std);
+	color: var(--color-flashcard);
+	display: block;
+	margin: 0 auto;
+	max-width: 500px;
+	min-height: 500px;
+	padding: calc(var(--spacing-std) * 3) calc(var(--spacing-std) * 3) calc(var(--spacing-std) * 3 + 64px);
+	position: relative;
+	text-align: center;
+	white-space: pre;
+
+	h1 + h2 {
+		opacity: 0.5;
+	}
+
+	.btn-group {
+		position: absolute;
+		bottom: calc(var(--spacing-std) * 3);
+	}
+}

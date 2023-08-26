@@ -1,0 +1,25 @@
+button,
+.btn,
+input[type='submit'] {
+	background-color: var(--bgc-button);
+	border: none;
+	color: var(--color-button);
+	font-family: var(--ff-body);
+	font-size: var(--fz-std);
+	padding: var(--spacing-std) calc(var(--spacing-std) * 2);
+	border-radius: 2rem;
+	min-height: 4rem;
+	cursor: pointer;
+
+	&:hover,
+	&:focus,
+	&:active {
+		background-color: var(--bgc-button-hover);
+		color: var(--color-button-hover);
+	}
+}
+
+.btn-group {
+	display: flex;
+	gap: var(--spacing-small);
+}
