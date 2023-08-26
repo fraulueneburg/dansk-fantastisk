@@ -1,14 +1,22 @@
 import './scss/style.scss'
-import Practice from './pages/Practice'
-import Nav from './components/Nav'
+import Layout from './pages/Layout'
+import { Routes, Route } from 'react-router-dom'
+import Home from './pages/Home.jsx'
+import Decks from './pages/Decks'
+import Practice from './pages/Practice.jsx'
+import Overview from './components/Overview'
 
 function App() {
 	return (
 		<>
-			<Nav />
-			<main>
-				<Practice />
-			</main>
+			<Routes>
+				<Route path="/" element={<Layout />}>
+					<Route path="/" element={<Home />}></Route>
+					<Route path="/decks" element={<Decks />}></Route>
+					<Route path="/practice" element={<Practice />}></Route>
+					<Route path="/overview" element={<Overview />}></Route>
+				</Route>
+			</Routes>
 		</>
 	)
 }

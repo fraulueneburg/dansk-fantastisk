@@ -21,7 +21,9 @@ Being frustrated with the (ahem) low-demand approach of Duolingo and other lang
 
 ## 2. Dependencies
 
+- react-router-dom
 - nanoID
+- dayjs
 - sass
 - feather-icons-react
 
