@@ -21,10 +21,13 @@ body {
 #root {
 	box-sizing: border-box;
 	display: flex;
-	padding: var(--spacing-small);
 	height: 100%;
 }
 
 main {
-	flex: 1 1 auto;
+	flex: 1 1 calc(100% - var(--nav-main-width) - var(--spacing-small));
+	margin: var(--spacing-small);
+	margin-left: var(--nav-main-width);
+	padding: var(--spacing-std);
+	overflow-x: hidden;
 }

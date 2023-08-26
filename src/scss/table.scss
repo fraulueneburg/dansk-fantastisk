@@ -1,0 +1,41 @@
+figure.table {
+	margin: 0;
+	overflow-x: scroll;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 1rem;
+	text-indent: 0;
+	width: 100%;
+}
+
+thead th {
+	border-bottom: 2px solid var(--color-muted);
+}
+
+th,
+td {
+	padding: var(--spacing-small);
+	text-align: left;
+	vertical-align: top;
+	word-wrap: break-word;
+
+	tbody & {
+		border-bottom: 1px solid var(--color-muted);
+	}
+
+	&.Sound {
+		max-width: 100px;
+	}
+
+	&.AnsweredRight,
+	&.Lapses {
+		text-align: right;
+	}
+}
+
+td.Description {
+	white-space: pre;
+}

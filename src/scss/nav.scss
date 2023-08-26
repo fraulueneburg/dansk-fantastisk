@@ -28,7 +28,7 @@ nav {
 			}
 		}
 
-		&.current a {
+		a.active {
 			background-color: var(--bgc-button);
 			color: var(--color-button);
 		}
@@ -37,8 +37,12 @@ nav {
 
 .nav_main {
 	background-color: var(--bgc-box-std);
-	border: var(--border-std);
 	border-radius: var(--border-radius-std);
-	margin-right: var(--spacing-small);
+	border: var(--border-std);
+	box-sizing: border-box;
+	height: calc(100% - 2 * var(--spacing-small));
+	margin: var(--spacing-small);
+	position: fixed;
 	text-align: center;
+	width: var(--nav-main-width);
 }
