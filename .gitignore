@@ -12,9 +12,8 @@
 /build
 
 # media files
-/src/assets/img/*
-/src/assets/sounds/*
-/src/assets/sounds-ipa/*
+/src/assets/*img*/*
+/src/assets/*sounds*/*
 
 
 # misc
