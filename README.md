@@ -1,11 +1,7 @@
 <h1>[IN PROGRESS] 👷🇩🇰<br />
 Dansk Fantastisk – A language learning app</h1>
 
-Being frustrated with the (ahem) low-demand approach of Duolingo and other language learning apps, I decided to code my own app to learn Danish. This app starts with pronounciation, which makes everything else so much easier. Loosely based on Gabriel Wyner’s approach to learning languages, outlined in his book “Fluent Forever”.
-
-## Technologies
-
-<img alt="React" src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+Being frustrated with the (ahem) low-demand approach of Duolingo and other language learning apps, I decided to code my own app to learn Danish. This app starts with pronounciation, which makes everything else so much easier. Loosely based on Gabriel Wyner’s approach to learning languages, outlined in his book “Fluent Forever”. Based on React, Express, NodeJS and MongoDB.
 
 ## Content:
 
@@ -17,13 +13,21 @@ Being frustrated with the (ahem) low-demand approach of Duolingo and other lang
 
 ---
 
-## Dependencies
+## 1. Technologies
 
-- to be defined
+<img alt="React" src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
 
-## Approach
+## 2. Dependencies
+
+- nanoID
+- sass
+- feather-icons-react
+
+---
+
+## 3. Approach
 
 Dansk Fantastisk’s learning approach is based on the following principles:
 
