@@ -2,13 +2,22 @@ main > .columns > .column:only-child {
 	margin: 0 auto;
 }
 
+.columns {
+	gap: var(--spacing-small);
+}
+
 .column {
+	overflow: hidden;
 	display: block;
 	flex-basis: 0;
 	flex-grow: 1;
 	flex-shrink: 1;
 	padding: 0.75rem;
+	position: relative;
+	border: var(--border-std);
+	border-radius: var(--border-radius-std);
 }
+
 .columns.is-mobile > .column.is-narrow {
 	flex: none;
 	width: unset;

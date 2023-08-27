@@ -12,10 +12,12 @@ input[type='submit'] {
 	cursor: pointer;
 
 	&:hover,
-	&:focus,
-	&:active {
+	&:focus {
 		background-color: var(--bgc-button-hover);
 		color: var(--color-button-hover);
+	}
+	&:active {
+		background-color: var(--bgc-button-active);
 	}
 }
 

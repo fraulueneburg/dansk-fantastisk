@@ -41,6 +41,7 @@ nav {
 	border: var(--border-std);
 	box-sizing: border-box;
 	height: calc(100% - 2 * var(--spacing-small));
+	padding-top: 0.5rem;
 	margin: var(--spacing-small);
 	position: fixed;
 	text-align: center;

@@ -1,0 +1,26 @@
+.tabs {
+	[role='tablist'] {
+		border-bottom: 4px solid var(--bgc-button-active);
+		margin-bottom: 1rem;
+	}
+
+	button {
+		&[aria-selected='true'] {
+			background-color: var(--bgc-button-active);
+
+			span {
+				border-bottom: 2px solid currentColor;
+				padding-bottom: 4px;
+			}
+		}
+		&[role='tab'] {
+			border-radius: var(--border-radius-small);
+			border-bottom-left-radius: 0;
+			border-bottom-right-radius: 0;
+
+			+ button {
+				margin-left: var(--spacing-small);
+			}
+		}
+	}
+}

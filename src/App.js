@@ -5,6 +5,7 @@ import Home from './pages/Home.jsx'
 import Decks from './pages/Decks'
 import Practice from './pages/Practice.jsx'
 import Overview from './components/Overview'
+import Grammar from './pages/Grammar'
 
 function App() {
 	return (
@@ -15,6 +16,7 @@ function App() {
 					<Route path="/decks" element={<Decks />}></Route>
 					<Route path="/practice" element={<Practice />}></Route>
 					<Route path="/overview" element={<Overview />}></Route>
+					<Route path="/grammar" element={<Grammar />}></Route>
 				</Route>
 			</Routes>
 		</>

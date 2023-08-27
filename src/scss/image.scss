@@ -1,0 +1,9 @@
+main img {
+	&.full-size {
+		object-fit: fill;
+		width: calc(100% + 1.5rem);
+		margin: -0.75rem;
+		margin-bottom: -1.5rem;
+		height: auto;
+	}
+}

@@ -1,0 +1,15 @@
+input {
+	border: var(--border-std);
+	border-radius: 35px/50%;
+	font: var(--font-std);
+	overflow: visible;
+	padding: var(--spacing-std) calc(var(--spacing-std) * 2);
+	padding-bottom: calc(var(--spacing-small) * 2);
+	display: inline;
+	width: auto;
+	margin-bottom: 2rem;
+}
+
+input::placeholder {
+	overflow: visible;
+}

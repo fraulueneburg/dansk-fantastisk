@@ -1,6 +1,7 @@
 figure.table {
 	margin: 0;
 	overflow-x: scroll;
+	height: 100%;
 }
 
 table {
@@ -8,16 +9,27 @@ table {
 	border-spacing: 0;
 	font-size: 1rem;
 	text-indent: 0;
+	position: relative;
 	width: 100%;
+
+	audio {
+		position: relative;
+		width: 100px;
+		z-index: -1;
+	}
 }
 
 thead th {
+	background-color: var(--color-white);
 	border-bottom: 2px solid var(--color-muted);
+	position: sticky;
+	top: 0;
+	font-size: 1.1rem;
 }
 
 th,
 td {
-	padding: var(--spacing-small);
+	padding: var(--spacing-small) calc(var(--spacing-small) * 2);
 	text-align: left;
 	vertical-align: top;
 	word-wrap: break-word;
@@ -31,11 +43,15 @@ td {
 	}
 
 	&.AnsweredRight,
+	&.Interval,
 	&.Lapses {
 		text-align: right;
 	}
-}
 
-td.Description {
-	white-space: pre;
+	&.DueDate {
+		white-space: nowrap;
+	}
+	&.Description {
+		white-space: pre;
+	}
 }

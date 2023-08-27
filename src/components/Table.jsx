@@ -4,14 +4,6 @@ import Audio from './Audio'
 function Table(props) {
 	const data = props.data
 	const dataKeys = Object.keys(data[0])
-	// const dataValues = [
-	// 	data.forEach((elem, index, arr) => {
-	// 		Object.values(arr[index])
-	// 	}),
-	// ]
-	// console.log('dataValues', dataValues)
-
-	console.log('DATAKEYS', dataKeys[1])
 
 	return (
 		<>
@@ -57,7 +49,7 @@ function Table(props) {
 					</table>
 				</figure>
 			) : (
-				'No data yet'
+				<p>No data to display</p>
 			)}
 		</>
 	)
