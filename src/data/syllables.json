@@ -2,14 +2,15 @@
 	{
 		"Syllable": "-ag/age",
 		"IPA": "[äj] / [äje]",
-		"Description": "kurzes dreckiges »ä«\nZunge mittig, Mund geöffnet\n\nähnlich Englisch »cat«\noder norddeutsch »hämmbuᵊch«",
+		"Description": "kurzes, bisschen rotziges »ä«\nZunge mittig, Mund geöffnet\n\nähnlich Englisch »cat«\noder norddeutsch »hämmbuᵊch«",
 		"ExampleWords": ["bag", "dag"],
 		"Sound": ["dag.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 14,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-an/and",
@@ -19,9 +20,10 @@
 		"Sound": ["vand.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 7,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ane",
@@ -31,9 +33,10 @@
 		"Sound": ["svane.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 7,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ang/ange",
@@ -43,9 +46,10 @@
 		"Sound": ["bange.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 28,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ale",
@@ -55,9 +59,10 @@
 		"Sound": ["hale.ogg"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-alle",
@@ -67,9 +72,10 @@
 		"Sound": ["balle_boerneorm.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ar",
@@ -79,9 +85,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ral",
@@ -91,9 +98,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-al/ald",
@@ -103,9 +111,10 @@
 		"Sound": ["skal.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-rage",
@@ -115,9 +124,10 @@
 		"Sound": ["opdrage.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-arm",
@@ -127,9 +137,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-amme",
@@ -139,9 +150,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-akke",
@@ -151,9 +163,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-af",
@@ -163,9 +176,10 @@
 		"Sound": ["aftale.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-agt",
@@ -175,9 +189,10 @@
 		"Sound": ["magt.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-o",
@@ -187,9 +202,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-og ¹",
@@ -199,9 +215,10 @@
 		"Sound": ["klog.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-og ²",
@@ -211,9 +228,10 @@
 		"Sound": ["tog.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-org",
@@ -223,9 +241,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-oge",
@@ -235,9 +254,10 @@
 		"Sound": ["koge.mp3", "fjoget.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ost",
@@ -247,9 +267,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ot/odt",
@@ -259,9 +280,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ov",
@@ -271,9 +293,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ok",
@@ -283,9 +306,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ore/orde",
@@ -295,9 +319,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-e",
@@ -307,9 +332,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-el",
@@ -319,9 +345,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-elt ¹",
@@ -331,9 +358,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-elt ²",
@@ -343,9 +371,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-elv",
@@ -355,9 +384,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-en/ene",
@@ -367,9 +397,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-end",
@@ -379,9 +410,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ej",
@@ -391,9 +423,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-er",
@@ -403,9 +436,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-re-",
@@ -415,9 +449,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ind",
@@ -427,9 +462,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-in",
@@ -439,9 +475,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ing",
@@ -451,9 +488,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ik ¹",
@@ -463,9 +501,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ik ²",
@@ -475,9 +514,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-iv",
@@ -487,9 +527,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ring",
@@ -499,9 +540,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ig",
@@ -511,9 +553,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-enne",
@@ -523,9 +566,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-egn",
@@ -535,9 +579,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-op/-oppe",
@@ -547,9 +592,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "Tra-",
@@ -559,9 +605,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Vowels"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-dig ¹ (soft)",
@@ -571,9 +618,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-dig ² (hard)",
@@ -583,9 +631,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ld",
@@ -595,9 +644,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-lle",
@@ -607,9 +657,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-le",
@@ -619,9 +670,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-lig",
@@ -631,9 +683,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-u",
@@ -643,9 +696,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ul/ule",
@@ -655,9 +709,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-uge",
@@ -667,9 +722,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "und-",
@@ -679,9 +735,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-un",
@@ -691,9 +748,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-us",
@@ -703,9 +761,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-uld",
@@ -715,9 +774,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ugl",
@@ -727,9 +787,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ung",
@@ -739,9 +800,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-um",
@@ -751,9 +813,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-uks",
@@ -763,9 +826,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-usk",
@@ -775,9 +839,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-uft",
@@ -787,9 +852,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-y",
@@ -799,9 +865,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-yd",
@@ -811,9 +878,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ys",
@@ -823,9 +891,10 @@
 		"Sound": ["jysk.ogg"],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-yn",
@@ -835,9 +904,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ynd/ynk/yng",
@@ -847,9 +917,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-yst",
@@ -859,9 +930,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "æ-",
@@ -871,9 +943,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ær-",
@@ -883,9 +956,10 @@
 		"Sound": ["aerlig.ogg"],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ræk",
@@ -895,9 +969,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-øj/g",
@@ -907,9 +982,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ø",
@@ -919,9 +995,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ød ¹",
@@ -931,9 +1008,10 @@
 		"Sound": ["koed.ogg"],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ød ²",
@@ -943,9 +1021,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-øre ¹",
@@ -955,9 +1034,10 @@
 		"Sound": ["snoere.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-øre ²",
@@ -967,9 +1047,10 @@
 		"Sound": ["skoere.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-øn",
@@ -979,9 +1060,10 @@
 		"Sound": ["sentence_min_soen_gaar_i_boernehaveklasse.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ørst",
@@ -991,9 +1073,10 @@
 		"Sound": ["boerste.mp3"],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ømme ¹",
@@ -1003,9 +1086,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ømme ²",
@@ -1015,9 +1099,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "å-",
@@ -1027,9 +1112,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-ål",
@@ -1039,9 +1125,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-åne",
@@ -1051,9 +1138,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "-åde",
@@ -1063,9 +1151,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "ånd-",
@@ -1075,9 +1164,10 @@
 		"Sound": [],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	},
 	{
 		"Syllable": "år",
@@ -1087,8 +1177,9 @@
 		"Sound": ["saar.ogg"],
 		"MinimalPairs": [],
 		"Category": ["Consonants"],
-		"DueDate": "1",
-		"AnsweredRight": "0",
-		"Lapses": "0"
+		"Interval": 1,
+		"DueDate": "2023-08-26",
+		"AnsweredRight": 0,
+		"Lapses": 0
 	}
 ]

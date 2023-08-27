@@ -1,0 +1,41 @@
+[
+	{
+		"Letter": "æ",
+		"Pronounciation": "kurzes, bisschen dreckiges »ä«\n\nVorderzunge, Mund geöffnet",
+		"Approximation": "ähnlich Englisch »cat«\noder norddeutsch »hämmbuᵊch«",
+		"IPAName": "Ungerundeter fast offener Vorderzungenvokal",
+		"IPANumber": 325,
+		"Sound": [],
+		"Tags": ["Vokale", "Vorderzunge", "fast offen", "ungerundet"],
+		"Interval": 1,
+		"DueDate": 1,
+		"AnsweredRight": 0,
+		"Lapses": 0
+	},
+	{
+		"Letter": "ɑ",
+		"Pronounciation": "„dunkles“ a, artikuliert durch aktive Erweiterung des hinteren Rachenbereichs, wobei der Kehlkopf etwas nach unten gezogen wird",
+		"Approximation": "engl. calm [kʰɑːm]",
+		"IPAName": "Ungerundeter offener Hinterzungenvokal",
+		"IPANumber": 305,
+		"Sound": [],
+		"Tags": ["Vokale", "Hinterzunge", "offen", "ungerundet"],
+		"Interval": 1,
+		"DueDate": 1,
+		"AnsweredRight": 0,
+		"Lapses": 0
+	},
+	{
+		"Letter": "ɕ",
+		"Pronounciation": "zwischen ch in ich und ß in weiß",
+		"Approximation": "sjat [ˈɕa̝d]",
+		"IPAName": "Stimmloser alveolopalataler Frikativ",
+		"IPANumber": 182,
+		"Sound": [],
+		"Tags": ["Konsonanten", "Frikative", "stimmlos"],
+		"Interval": 1,
+		"DueDate": 1,
+		"AnsweredRight": 0,
+		"Lapses": 0
+	}
+]
