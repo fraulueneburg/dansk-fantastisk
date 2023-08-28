@@ -4,7 +4,7 @@ import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home.jsx'
 import Decks from './pages/Decks'
 import Practice from './pages/Practice.jsx'
-import Overview from './components/Overview'
+import Overview from './pages/Overview'
 import Grammar from './pages/Grammar'
 
 function App() {

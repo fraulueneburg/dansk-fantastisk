@@ -1,7 +1,7 @@
 import dataSyllables from '../data/syllables.json'
 import dataIPA from '../data/ipa.json'
 import dataSentences from '../data/sentences.json'
-import Tabs from './Tabs'
+import Tabs from '../components/Tabs'
 
 function Overview() {
 	return (
