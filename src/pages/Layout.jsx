@@ -19,6 +19,11 @@ const menuItems = [
 		icon: 'play-circle',
 	},
 	{
+		title: 'Play',
+		link: 'play',
+		icon: 'smile',
+	},
+	{
 		title: 'Overview',
 		link: 'overview',
 		icon: 'table',

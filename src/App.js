@@ -2,6 +2,7 @@ import './scss/style.scss'
 import Layout from './pages/Layout'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home.jsx'
+import Play from './pages/Play.jsx'
 import Decks from './pages/Decks'
 import Practice from './pages/Practice.jsx'
 import Overview from './pages/Overview'
@@ -16,6 +17,7 @@ function App() {
 					<Route path="/decks" element={<Decks />}></Route>
 					<Route path="/practice" element={<Practice />}></Route>
 					<Route path="/overview" element={<Overview />}></Route>
+					<Route path="/play" element={<Play />}></Route>
 					<Route path="/grammar" element={<Grammar />}></Route>
 				</Route>
 			</Routes>
