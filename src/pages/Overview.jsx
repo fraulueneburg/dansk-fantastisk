@@ -1,6 +1,7 @@
 import dataSyllables from '../data/syllables.json'
 import dataIPA from '../data/ipa.json'
 import dataSentences from '../data/sentences.json'
+import dataWords from '../data/words.json'
 import Tabs from '../components/Tabs'
 
 function Overview() {
@@ -11,6 +12,7 @@ function Overview() {
 				data={[
 					{ title: 'IPA', content: dataIPA, format: 'table' },
 					{ title: 'Syllables', content: dataSyllables, format: 'table' },
+					{ title: 'Words', content: dataWords, format: 'table' },
 					{ title: 'Sentences', content: dataSentences, format: 'table' },
 				]}
 			/>
