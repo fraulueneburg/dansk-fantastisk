@@ -21,6 +21,7 @@ body {
 #root {
 	box-sizing: border-box;
 	display: flex;
+	flex-direction: column;
 	height: 100%;
 }
 
@@ -31,4 +32,8 @@ main {
 	margin-left: calc(var(--nav-main-width) + var(--spacing-small) * 2);
 	padding: var(--spacing-std);
 	overflow-x: hidden;
+}
+
+header {
+	margin-left: calc(var(--nav-main-width) + var(--spacing-small) * 2);
 }
