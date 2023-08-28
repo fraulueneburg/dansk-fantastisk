@@ -18,6 +18,10 @@ table {
 	}
 }
 
+tr:nth-child(even) {
+	background-color: var(--color-table-row);
+}
+
 thead th {
 	background-color: var(--color-white);
 	border-bottom: 2px solid var(--color-muted);

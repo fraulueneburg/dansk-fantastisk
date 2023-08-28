@@ -10,6 +10,9 @@
 	--color-blue-500: #3c71f7;
 	--color-blue-650: #184eb8;
 	--color-blue-700: #1343a0;
+	--color-azure-50: #e9f2fc;
+
+	--color-primary: var(--color-blue-500);
 
 	--bgc-box-std: var(--color-white);
 	--bgc-button: var(--color-blue-500);
@@ -17,6 +20,7 @@
 	--bgc-button-active: var(--color-blue-700);
 	--color-button: var(--color-white);
 	--color-button-hover: var(--color-white);
+	--color-table-row: var(--color-azure-50);
 
 	// BASE SCAFFOLDING
 
