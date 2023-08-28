@@ -37,8 +37,7 @@ function Tabs(props) {
 								tabIndex="0"
 								hidden={+index !== +activeTabIndex ? true : false}
 								aria-labelledby={`tab-${index}`}>
-								{/* {data.format === 'table' ? <Table data={item.content} /> : item.content} */}
-								<Table data={item.content} />
+								{typeof item.content === 'object' ? <Table data={item.content} /> : item.content}
 							</div>
 						)
 					})}
