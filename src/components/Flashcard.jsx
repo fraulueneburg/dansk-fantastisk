@@ -7,10 +7,13 @@ function Flashcard(props) {
 	const today = dayjs().format('YYYY-MM-DD')
 	const data = props.cardData
 	const repeatDaysArr = [1, 2, 7, 14, 28, -1]
-
+	const [isCardFlipped, setIsCardFlipped] = useState(false)
 	let [cardIndex, setCardIndex] = useState(0)
 	let [card, setCard] = useState(data[cardIndex])
-	const [isCardFlipped, setIsCardFlipped] = useState(false)
+
+	useEffect(() => {
+		setCard(data[cardIndex])
+	}, [cardIndex, data])
 
 	const handleFlip = () => {
 		setIsCardFlipped(!isCardFlipped)
@@ -50,10 +53,6 @@ function Flashcard(props) {
 		console.log('DATA UPDATED (WRONG ANSWER)', data)
 	}
 
-	useEffect(() => {
-		setCard(data[cardIndex])
-	}, [cardIndex, data])
-
 	return (
 		<>
 			<section className="flashcard">
@@ -61,7 +60,7 @@ function Flashcard(props) {
 					<div className="front">
 						<h1>{card.Syllable}</h1>
 						<h2>{card.ExampleWords.join(', ')}</h2>
-						<button onClick={handleFlip}>show answer</button>
+						<Button onClickAction={handleFlip} text="show answer" />
 					</div>
 				) : (
 					<div className="back">
