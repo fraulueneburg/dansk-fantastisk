@@ -62,13 +62,14 @@ Learning sentences that contain the target vocabulary and grammar, helps to unde
 - Create personalized Flashcards
 - Learn IPA, Pronounciation, Words, Sentences
 - Learn using the SRS (Spaced Repetition System)
+- Get a Mads Mikkelsen gif after every 10th right answers
 - … to be continued
 
 ### Some wild ideas for the future:
 
 - Gamification: make it fun and nice while still being challenging
 - Personalization: app suggests vocabulary based on interests
-- Paste the url to a YouTube you want to understand and the app will teach you the vocabulary
+- Paste the URL to a YouTube video you want to understand – the app will teach you the vocabulary
 - AI suggests example sentences
 - AI powered conversation trainer
 
