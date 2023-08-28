@@ -1,6 +1,4 @@
 import photo01 from './../assets/img/denmark-photo-01.jpg'
-import photo02 from './../assets/img/denmark-photo-02.jpg'
-import photo03 from './../assets/img/denmark-photo-03.jpg'
 import Image from '../components/Image'
 
 function Home() {
