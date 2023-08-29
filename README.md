@@ -1,10 +1,10 @@
 <h1>[IN PROGRESS] 👷🇩🇰<br />
 Dansk Fantastisk – A language learning app</h1>
 
-Being frustrated with the (ahem) low-demand approach of Duolingo and other language learning apps, I decided to code my own app to learn Danish. This app starts with pronounciation, which makes everything else so much easier. Loosely based on Gabriel Wyner’s approach to learning languages, outlined in his book “Fluent Forever”. Based on React, Express, NodeJS and MongoDB.
-
 > [!IMPORTANT]
-> Please note that this project is still in progress
+> Please note that this project is still in progress. You can follow my progress here or on [Linkedin](https://linkedin.com/in/fraulueneburg)
+
+Being frustrated with the (ahem) low-level approach of Duolingo and other language learning apps, I decided to code my own app for learning Danish. This app starts with pronounciation, which makes everything else so much easier. Loosely based on Gabriel Wyner’s approach to learning languages, outlined in his book “Fluent Forever”. Built with React, Express, NodeJS and MongoDB.
 
 ## Content:
 
