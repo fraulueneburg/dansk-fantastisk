@@ -1,20 +1,21 @@
 import { useState, useEffect } from 'react'
-import Button from './Button'
-import Audio from './Audio'
 import dayjs from 'dayjs'
+import CardContent from './Flashcard/CardContent'
+import Button from './Button'
 
 function Flashcard(props) {
 	const today = dayjs().format('YYYY-MM-DD')
-	const data = props.cardData
+	const data = props.cardData.content
+	const template = props.cardData.template
 	const repeatDaysArr = [1, 2, 7, 14, 28, -1]
-	const [isCardFlipped, setIsCardFlipped] = useState(false)
+
 	let [cardIndex, setCardIndex] = useState(0)
 	let [card, setCard] = useState(data[cardIndex])
-
 	useEffect(() => {
 		setCard(data[cardIndex])
 	}, [cardIndex, data])
 
+	const [isCardFlipped, setIsCardFlipped] = useState(false)
 	const handleFlip = () => {
 		setIsCardFlipped(!isCardFlipped)
 	}
@@ -27,10 +28,8 @@ function Flashcard(props) {
 		card.Interval = newInterval
 		card.AnsweredRight++
 		card.Lapses++
-
-		setCardIndex(cardIndex + 1)
+		setCardIndex((prevIndex) => prevIndex + 1)
 		setIsCardFlipped(!isCardFlipped)
-
 		console.log('DATA UPDATED', data)
 	}
 
@@ -38,18 +37,14 @@ function Flashcard(props) {
 		const newIntervalIndex = repeatDaysArr.findIndex((elem) => elem === card.Interval) - 1
 		const newInterval = repeatDaysArr[newIntervalIndex]
 
-		if (newInterval !== undefined) {
-			card.DueDate = dayjs(today).add(newInterval, 'day').format('YYYY-MM-DD')
-		} else {
-			card.DueDate = dayjs(today).add(1, 'day').format('YYYY-MM-DD')
-		}
+		newInterval !== undefined
+			? (card.DueDate = dayjs(today).add(newInterval, 'day').format('YYYY-MM-DD'))
+			: (card.DueDate = dayjs(today).add(1, 'day').format('YYYY-MM-DD'))
 
 		card.Interval = newInterval
 		card.Lapses++
-
 		setCardIndex(cardIndex + 1)
 		setIsCardFlipped(!isCardFlipped)
-
 		console.log('DATA UPDATED (WRONG ANSWER)', data)
 	}
 
@@ -58,17 +53,12 @@ function Flashcard(props) {
 			<section className="flashcard">
 				{!isCardFlipped ? (
 					<div className="front">
-						<h1>{card.Syllable}</h1>
-						<h2>{card.ExampleWords.join(', ')}</h2>
+						<CardContent side="front" template={template} data={card} />
 						<Button onClickAction={handleFlip} text="show answer" />
 					</div>
 				) : (
 					<div className="back">
-						<h1>{card.Syllable}</h1>
-						<h2>{card.ExampleWords.join(', ')}</h2>
-						<h2>{card.IPA}</h2>
-						<small>{card.Description}</small>
-						{card.Sound ? <Audio data={card.Sound} autoPlay={true} /> : null}
+						<CardContent side="back" template={template} data={card} />
 						<div className="btn-group">
 							<Button onClickAction={handleDontKnow} text={'I didn’t know this ❌'} />
 							<Button onClickAction={handleKnow} text={'I knew this ✅'} />

@@ -9,10 +9,10 @@ import dataSyllables from './../data/syllables.json'
 import dataWords from './../data/words.json'
 
 const dataArr = [
-	{ title: 'IPA', content: dataSyllables },
-	{ title: 'Syllables', content: dataSyllables },
-	{ title: 'Words', content: dataSyllables },
-	{ title: 'Sentences', content: dataSyllables },
+	{ title: 'IPA', template: 'ipa', content: dataIPA },
+	{ title: 'Syllables', template: 'syllables', content: dataSyllables },
+	{ title: 'Words', template: 'words', content: dataWords },
+	{ title: 'Sentences', template: 'sentences', content: dataSentences },
 ]
 
 function Practice() {
@@ -24,7 +24,7 @@ function Practice() {
 			{dataArr.length > 0 ? (
 				<div className="btn-group">
 					{dataArr.map((elem) => {
-						return <Button key={nanoid()} active={true} text={elem.title} onClickAction={() => setCardData(elem.content)} />
+						return <Button key={nanoid()} active={true} text={elem.title} onClickAction={() => setCardData(elem)} />
 					})}
 				</div>
 			) : null}
