@@ -1,9 +1,12 @@
 import Table from './Table'
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 import { nanoid } from 'nanoid'
 
 function Tabs(props) {
-	const data = props.data
+	const data = useMemo(() => {
+		return props.data
+	}, [props.data])
+
 	const [activeTabIndex, setActiveTabIndex] = useState(0)
 
 	return (
