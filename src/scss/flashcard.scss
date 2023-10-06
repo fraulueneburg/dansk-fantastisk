@@ -4,13 +4,20 @@
 	border: var(--border-std);
 	color: var(--color-flashcard);
 	display: block;
-	margin: 0 auto;
-	max-width: 500px;
-	min-height: 500px;
+	height: 100%;
+	margin: 0;
 	padding: calc(var(--spacing-std) * 3) calc(var(--spacing-std) * 3) calc(var(--spacing-std) * 3 + 64px);
 	position: relative;
 	text-align: center;
 	white-space: pre;
+
+	height: calc(95vh - 80px);
+	margin: 2vh 0;
+	padding: 0;
+	position: fixed;
+	top: 80px;
+	width: 75vw;
+	z-index: 10;
 
 	h1 + h2 {
 		opacity: 0.5;
