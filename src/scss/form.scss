@@ -1,4 +1,5 @@
-input {
+input,
+textarea {
 	border: var(--border-std);
 	border-radius: 35px/50%;
 	font: var(--font-std);
@@ -8,6 +9,10 @@ input {
 	display: inline;
 	width: auto;
 	margin-bottom: 2rem;
+}
+
+textarea {
+	border-radius: 35px;
 }
 
 input::placeholder {
