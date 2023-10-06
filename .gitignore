@@ -12,6 +12,7 @@
 /build
 
 # media files
+/public/*img*/*
 /src/assets/*img*/*
 /src/assets/*sounds*/*
 !/src/assets/sounds-ipa/*
