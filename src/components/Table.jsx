@@ -3,11 +3,12 @@ import Audio from './Audio'
 
 function Table(props) {
 	const data = props.data
-	const dataKeys = Object.keys(data[0])
+	const dataKeys = data.length > 0 ? Object.keys(data[0]) : 'null'
+	const isDataValid = data.length > 0 && dataKeys !== null && dataKeys !== undefined
 
 	return (
 		<>
-			{data.length > 0 ? (
+			{isDataValid ? (
 				<figure className="table">
 					<table>
 						<thead>
@@ -49,7 +50,7 @@ function Table(props) {
 					</table>
 				</figure>
 			) : (
-				<p>No data to display</p>
+				<p>Invalid table data</p>
 			)}
 		</>
 	)
