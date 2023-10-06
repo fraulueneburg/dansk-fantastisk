@@ -20,9 +20,8 @@ function Practice() {
 
 	return (
 		<>
-			<h1>Choose a card deck:</h1>
 			{dataArr.length > 0 ? (
-				<div className="btn-group">
+				<div className="btn-group nav-card-template">
 					{dataArr.map((elem) => {
 						return <Button key={nanoid()} active={true} text={elem.title} onClickAction={() => setCardData(elem)} />
 					})}
