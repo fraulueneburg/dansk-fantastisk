@@ -47,7 +47,8 @@ td {
 
 	&.AnsweredRight,
 	&.Interval,
-	&.Lapses {
+	&.Lapses,
+	&.DueDate {
 		text-align: right;
 	}
 

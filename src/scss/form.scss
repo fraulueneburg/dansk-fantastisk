@@ -1,20 +1,52 @@
+label {
+	font-size: 1rem;
+	font-weight: bold;
+	display: block;
+}
+
 input,
 textarea {
 	border: var(--border-std);
-	border-radius: 35px/50%;
+	border-radius: 27px;
 	font: var(--font-std);
 	overflow: visible;
-	padding: var(--spacing-std) calc(var(--spacing-std) * 2);
+	padding: var(--spacing-std) calc(var(--spacing-std) * 1.5);
 	padding-bottom: calc(var(--spacing-small) * 2);
-	display: inline;
-	width: auto;
 	margin-bottom: 2rem;
+
+	display: block;
+	width: 100%;
 }
 
 textarea {
-	border-radius: 35px;
+	border-radius: 25px;
 }
 
 input::placeholder {
 	overflow: visible;
+}
+
+form.add-ipa {
+	width: 100%;
+
+	label,
+	input,
+	textarea,
+	select {
+		font-size: 1rem;
+
+		box-sizing: border-box;
+	}
+}
+
+form {
+	.columns {
+		margin: 0;
+		width: 100%;
+	}
+	.column {
+		padding: 0;
+		border: none;
+		border-radius: 0;
+	}
 }
