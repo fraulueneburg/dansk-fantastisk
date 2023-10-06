@@ -8,16 +8,20 @@ function CardContent(props) {
 	const side = props.side
 	const data = props.data
 
+	const calcHeadlineSize = (word) => {
+		return 'calc(120vw / ' + word.length + ')'
+	}
+
 	return (
 		<>
 			{template === 'ipa' ? (
 				side === 'front' ? (
 					<>
-						<h1>{data.Letter}</h1>
+						<h1 style={{ fontSize: '90vw', lineHeight: '0.5' }}>{data.Letter}</h1>
 					</>
 				) : (
 					<>
-						<h1>{data.Letter}</h1>
+						<h1 style={{ fontSize: '90vw', lineHeight: '0.5' }}>{data.Letter}</h1>
 						{data.Pronounciation ? <p>{data.Pronounciation}</p> : null}
 						{data.Approximation ? <p>{data.Approximation}</p> : null}
 						<small>{data.IPAName}</small>
@@ -27,7 +31,7 @@ function CardContent(props) {
 			) : template === 'syllables' ? (
 				side === 'front' ? (
 					<>
-						<h1>{data.Syllable}</h1>
+						<h1 style={{ fontSize: calcHeadlineSize(data.Syllable) }}>{data.Syllable}</h1>
 						<p>
 							{data.ExampleWords.map((word, index, arr) => {
 								return word + (index !== arr.length - 1 ? ', ' : '')
@@ -36,7 +40,7 @@ function CardContent(props) {
 					</>
 				) : (
 					<>
-						<h1>{data.Syllable}</h1>
+						<h1 style={{ fontSize: calcHeadlineSize(data.Syllable) }}>{data.Syllable}</h1>
 						<h2>{data.IPA}</h2>
 						{data.Description ? <p>{data.Description}</p> : null}
 						{data.Sound ? <Audio data={data.Sound} autoPlay={true} /> : null}
@@ -45,14 +49,14 @@ function CardContent(props) {
 			) : template === 'words' ? (
 				side === 'front' ? (
 					<>
-						<h1>{data.Word}</h1>
+						<h1 style={{ fontSize: calcHeadlineSize(data.Word) }}>{data.Word}</h1>
 					</>
 				) : (
 					<>
-						<h1>{data.Word}</h1>
+						<h1 style={{ fontSize: calcHeadlineSize(data.Word) }}>{data.Word}</h1>
 						{data.IPA ? <p>{data.IPA}</p> : null}
 						{data.Sound ? <Audio data={data.Sound} autoPlay={true} /> : null}
-						<Image src={'../../assets/img-words' + data.Image} alt={data.Word} />
+						{data.Image ? <Image src={require('/public/img-words/' + data.Image)} alt={data.Word} /> : null}
 					</>
 				)
 			) : template === 'sentences' ? (
